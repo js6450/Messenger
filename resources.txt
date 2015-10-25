@@ -1,0 +1,14 @@
+Main tool:
+http://learn.ionicframework.com/
+
+Things to learn:
+https://nodejs.org/en/about/
+http://lesscss.org/
+http://sass-lang.com/
+http://www.javascriptmvc.com/
+http://emberjs.com/
+https://angularjs.org/
+http://www.w3schools.com/ajax/
+
+Using github:
+https://www.atlassian.com/git/tutorials/syncing/git-fetch
