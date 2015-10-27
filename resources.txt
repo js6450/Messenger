@@ -14,6 +14,13 @@ on your terminal (for mac) or cmd (for windows)
 for mac, if that doesn't work, try
 sudo npm install -g cordova ionic
 
+emulation tool:
+We need to be able to emulate how the app will look like on our computer.
+Since we are developing for android, we need to install this emulation tool:
+http://genymotion.com/
+
+Download and install their free version.
+
 Things to learn:
 https://nodejs.org/en/about/
 http://lesscss.org/
