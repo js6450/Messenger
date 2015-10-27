@@ -1,6 +1,19 @@
 Main tool:
 http://learn.ionicframework.com/
 
+Watch this video:
+https://apps.ionic.io/apps
+
+Things to install:
+Node.js: go to their website and install the right version for your computer
+After you have installed node.js, install cordova and ionic by typing:
+npm install -g cordova ionic
+
+on your terminal (for mac) or cmd (for windows)
+
+for mac, if that doesn't work, try
+sudo npm install -g cordova ionic
+
 Things to learn:
 https://nodejs.org/en/about/
 http://lesscss.org/
