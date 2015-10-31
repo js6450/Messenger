@@ -1,5 +1,10 @@
 Main tool:
 http://learn.ionicframework.com/
+installing dependencies:
+http://ionicframework.com/docs/guide/installation.html
+
+http://docs.ionic.io/docs/io-introduction
+
 
 Watch this video:
 https://apps.ionic.io/apps
@@ -29,6 +34,13 @@ http://www.javascriptmvc.com/
 http://emberjs.com/
 https://angularjs.org/
 http://www.w3schools.com/ajax/
+
+database:
+https://www.firebase.com/?gclid=COqmwp7D6cgCFUafGwodOVYACg
+
+messenger api:
+http://socket.io/
+https://www.respoke.io/
 
 Using github:
 https://www.atlassian.com/git/tutorials/syncing/git-fetch
